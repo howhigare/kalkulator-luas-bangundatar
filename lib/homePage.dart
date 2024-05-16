@@ -90,7 +90,7 @@ class CustomCard extends StatelessWidget {
               leading: Image.asset(
                 image,
                 width: 50.0,
-                height: 50.0,
+                height: 10.0,
               ),
             ),
           ),
