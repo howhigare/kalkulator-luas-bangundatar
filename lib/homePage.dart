@@ -83,7 +83,7 @@ class CustomCard extends StatelessWidget {
                   ),
                   Icon(
                     Icons.arrow_forward,
-                    color: const Color.fromARGB(255, 0, 0, 0),
+                    color: Color.fromARGB(255, 97, 80, 80),
                   ),
                 ],
               ),
